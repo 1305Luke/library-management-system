@@ -60,6 +60,3 @@ data/
   the system should show a clear error message instead of crashing.
 - (Optional) Add JUnit if you want automated tests for `LibraryService`
   methods like fine calculation and availability checks.
-
-## Screenshots
-_(Add screenshots of the menu, book search, and issue/return flow here.)_
